@@ -1,0 +1,24 @@
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\obj\Debug\CV Daniel Artzi.csproj.AssemblyReference.cache
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\obj\Debug\CV Daniel Artzi.csproj.SuggestedBindingRedirects.cache
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\obj\Debug\CV_Daniel_Artzi.UCity.resources
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\obj\Debug\CV_Daniel_Artzi.UStreet.resources
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\obj\Debug\CV Daniel Artzi.csproj.GenerateResource.cache
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\obj\Debug\CV_Daniel_Artzi.Properties.Resources.resources
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\obj\Debug\CV Daniel Artzi.csproj.CoreCompileInputs.cache
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\CV Daniel Artzi.exe.config
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\CV Daniel Artzi.exe
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\CV Daniel Artzi.pdb
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\System.Drawing.Common.dll
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\System.Reactive.dll
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\System.Reactive.Windows.Forms.dll
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\System.Drawing.Common.xml
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\System.Reactive.xml
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\System.Reactive.Windows.Forms.xml
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\obj\Debug\CV Daniel Artzi.csproj.CopyComplete
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\obj\Debug\CV Daniel Artzi.exe
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\obj\Debug\CV Daniel Artzi.pdb
+E:\Projects - Daniel Artzi\CV\CV Daniel Artzi\CV Daniel Artzi\obj\Debug\CV_Daniel_Artzi.Program.resources
